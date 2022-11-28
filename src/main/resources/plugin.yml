@@ -1,0 +1,5 @@
+name: Concauldron
+main: fade.concauldron.ConcauldronPlugin
+version: 1.0-SNAPSHOT
+author: fade
+api-version: 1.19
